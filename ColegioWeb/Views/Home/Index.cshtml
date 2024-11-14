@@ -1,0 +1,82 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<h1 class="mt-5">Dashboard</h1>
+<div class="row">
+    <div class="col-xl-3 col-md-6">
+        <div class="card bg-info text-white mb-4">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="me-3">
+                        <h4 class="text-white-75 small">Total de profesores</h4>
+                        <h2 class="text-lg fw-bold" id="hDocente">1</h2>
+                    </div>
+                    <i class="fa-solid fa-user-md fa-2xl"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-3 col-md-6">
+        <div class="card bg-warning text-white mb-4">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="me-3">
+                        <h4 class="text-white-75 small">Total de cursos</h4>
+                        <h2 class="text-lg fw-bold" id="hCurso">1</h2>
+                    </div>
+                    <i class="fa-solid fa-user-group fa-2xl"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-3 col-md-6">
+        <div class="card bg-success text-white mb-4">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="me-3">
+                        <h4 class="text-white-75 small">Total de asesorías pendientes</h4>
+                        <h2 class="text-lg fw-bold" id="hAsesoriaPendiente">1</h2>
+                    </div>
+                    <i class="fa-solid fa-file-pen fa-2xl"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-3 col-md-6">
+        <div class="card bg-dark text-white mb-4">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="me-3">
+                        <h4 class="text-white-75 small">Total de asesorías atendidas</h4>
+                        <h2 class="text-lg fw-bold" id="hAsesoriaAtendida">1</h2>
+                    </div>
+                    <i class="fa-solid fa-repeat fa-2xl"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-3 col-md-6">
+        <div class="card bg-danger text-white mb-4">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="me-3">
+                        <h4 class="text-white-75 small">Total de asesorías anuladas</h4>
+                        <h2 class="text-lg fw-bold" id="hAsesoriaAnulada">1</h2>
+                    </div>
+                    <i class="fa-solid fa-coffee fa-2xl"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+@section Scripts {
+    <script src="~/views/dashboard/Dashboard.js"></script>
+
+}
+
+

@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ColegioWeb
+build_property.RootNamespace = ColegioWeb
+build_property.ProjectDir = D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Acceso/Denegado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXERlbmVnYWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Acceso/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Acceso/Registrarse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXFJlZ2lzdHJhcnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Asesorias/AsesoriasAsignadas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNlc29yaWFzXEFzZXNvcmlhc0FzaWduYWRhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Asesorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNlc29yaWFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Asesorias/NuevaAsesoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNlc29yaWFzXE51ZXZhQXNlc29yaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Curso/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/DocenteHorario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jZW50ZUhvcmFyaW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Docente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/HistorialAsesorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsQXNlc29yaWFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Shared/Components/MenuUsuario/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVVzdWFyaW9cRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/repos/InnovaEdu/ColegioWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-shsvws8z3a
